@@ -1,4 +1,4 @@
-package spring.cloud;
+package spring.boot;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;

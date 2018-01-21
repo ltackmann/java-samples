@@ -1,4 +1,4 @@
-package spring.cloud;
+package spring.axon;
 
 import java.util.Arrays;
 
@@ -9,10 +9,10 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
-public class SandboxApplication {
+public class AxonApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SandboxApplication.class, args);
+        SpringApplication.run(AxonApplication.class, args);
     }
 
     @Bean

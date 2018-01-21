@@ -1,6 +1,6 @@
 rootProject.name = 'spring'
 
 include 'axon'
-include 'cloud'
+include 'boot'
 include 'jdbc'
 include 'security'
